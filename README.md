@@ -38,6 +38,7 @@ pip install numpy notebook
 jupyter notebook "NumPy Basics.ipynb"
 ```
 Or open it in Google Colab if you prefer working online.
+
 🙋‍♂️ Who Is This For?
 This notebook is perfect for:
 
