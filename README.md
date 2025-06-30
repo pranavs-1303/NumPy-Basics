@@ -2,7 +2,6 @@
 
 Welcome to **NumPy Basics** — an interactive Jupyter Notebook designed to help you master the fundamentals of **NumPy**, the numerical computing powerhouse in Python.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ---
 
@@ -33,3 +32,21 @@ By the end of this notebook, you’ll be able to:
 ### 🔗 Requirements
 ```bash
 pip install numpy notebook
+```
+▶️ Run the Notebook
+```bash
+jupyter notebook "NumPy Basics.ipynb"
+```
+Or open it in Google Colab if you prefer working online.
+🙋‍♂️ Who Is This For?
+This notebook is perfect for:
+
+📈 Python beginners
+
+📊 Aspiring Data Scientists
+
+🎓 Students in STEM fields
+
+⚡ Anyone curious about fast numerical computing
+
+
